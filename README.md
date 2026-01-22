@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Jude  
+# Hi, I'm Jude  
 ### 15 | Aspiring Backend Developer  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
@@ -12,7 +12,16 @@
 
 ---
 
-## 📈 Most Used Languages
+## On My Learning Roadmap
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white" />
+</p>
+
+---
+
+## Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrettMC&layout=compact&theme=radical" />
 </p>

@@ -1,5 +1,6 @@
 # Hi, I'm Jude  
-### 15 | Aspiring Backend Developer. My goals are to make the tech world better with my coding skills, and to make the real world better through the love of Jesus Christ 🙏 
+### 15 | Aspiring Backend Developer. 
+#### My goals are to make the tech world better with my coding skills, and to make the real world better through the love of Jesus Christ 🙏 
 
 ---
 

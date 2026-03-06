@@ -1,6 +1,5 @@
-# Hi, I'm Jude  
-### 15 | Aspiring Backend Developer. 
-#### Jesus is my Lord 
+# Jude Froehlich  
+### 15 | I code. 
 
 ---
 

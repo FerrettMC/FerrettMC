@@ -12,6 +12,13 @@
 
 ---
 
+## Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+</p>
+
+---
+
 ## On My Learning Roadmap
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />

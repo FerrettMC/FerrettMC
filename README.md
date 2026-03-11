@@ -1,5 +1,4 @@
 # Jude Froehlich  
-### 15 | I code. 
 
 ---
 

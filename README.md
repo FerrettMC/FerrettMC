@@ -39,7 +39,8 @@
 ---
 
 ## About Me
-- Focused on **backend development** and building scalable APIs  
-- Currently exploring **Node.js + SQL** for real-world projects  
+- Started coding at 14
+- I love ferrets and Jesus
+- Currently learning C# and looking to get an internship
 
 ---

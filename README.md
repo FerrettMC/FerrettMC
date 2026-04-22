@@ -15,6 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  Along with .NET I am learning Java and Minecraft modding
 </p>
 
 

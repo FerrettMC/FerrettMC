@@ -15,7 +15,7 @@
 
 ## Learning
 <p align="center">
-  Minecraft Modding (With Java)
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
 </p>
 
 
@@ -23,17 +23,15 @@
 
 ## On My Learning Roadmap
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white" />
 </p>
 
 ---
 
 ## Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrettMC&layout=compact&theme=radical" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FerrettMC&layout=compact&theme=radical" />
 </p>
 
 ---

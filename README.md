@@ -16,6 +16,7 @@
 ## Learning
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+  <img src="![AI](https://img.shields.io/badge/AI-Learning-D4A574?logo=anthropic&logoColor=white)" />
 </p>
 
 
